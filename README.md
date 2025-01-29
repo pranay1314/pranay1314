@@ -78,9 +78,3 @@ I'm a passionate **DevOps Engineer** with 3+ years of experience in cloud infras
 </p>
 
 ---
-
-## 💬 Let's Connect
-- 📧 Email: [pranaychinche10@gmail.com](mailto:pranaychinche10@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/pranay-chinche](https://linkedin.com/in/pranay-chinche)  
-- 🌐 GitHub: [github.com/pranay113](https://github.com/pranay113)
-
